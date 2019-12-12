@@ -1,0 +1,18 @@
+﻿  main.cpp
+F:\CIS7\Final\Final\Final\main.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(118,22): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(169,21): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(179,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\CIS7\Final\Final\Final\main.cpp(242,21): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(260,16): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(304,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CIS7\Final\Final\Final\main.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(321,21): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(338,20): warning C4018: '<': signed/unsigned mismatch
+F:\CIS7\Final\Final\Final\main.cpp(341,13): warning C4018: '<': signed/unsigned mismatch
+  Final.vcxproj -> F:\CIS7\Final\Final\Debug\Final.exe
